@@ -1,0 +1,5 @@
+.venv/
+.env
+tickets.jsonl
+__pycache__/
+.files/

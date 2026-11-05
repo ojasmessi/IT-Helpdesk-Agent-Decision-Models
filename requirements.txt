@@ -1,0 +1,12 @@
+# Install PyTorch with CUDA FIRST (see README):
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128
+
+laya[langchain]
+decider-ai>=1.10.0
+pillow
+chainlit
+langgraph
+langchain
+langchain-core
+langchain-openai
+python-dotenv
